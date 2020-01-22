@@ -5,14 +5,12 @@
 <meta name="language" content="TH" >
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <style>
-style="width: 100%"
   body{background-color:#ecf0f1!important;font-size:14px;font-family: 'THSarabunNew', tahoma, thonburi, sans-serif; }
 </style>
 </head>
 <body>
  <center>
   <form name="line-notify" action="line-notify-api.php" method="post">
-   <table width=100%>
   <table width="450" border="0" cellspacing="0" cellpadding="0">
   <tr><td colspan="2" align="center"><img src="https://png.icons8.com/color/1600/line-me.png" width="40" height="40" border="0"></td></tr>
   <tr><td colspan="2" height="10"></td></tr>
