@@ -21,7 +21,7 @@ if($name<>"" || $email <> "" || $mesg <> "") {
 $res = notify_message($message,$stickerPkg,$stickerId,$token);
  echo "<center>ส่งข้อความเรียบร้อยแล้ว</center>";
  ?>
-<meta http-equiv="refresh" content="2;url=www.facebook.com">
+<meta http-equiv="refresh" content="2;url=indexhtml">
 <?php
 
 } else {
