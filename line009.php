@@ -10,7 +10,7 @@ $phone = $_REQUEST['phone'];
 $lineid = $_REQUEST['lineid'];
 $mesg = $_REQUEST['mesg'];
 
-$token = "BZvuzEdHaeg6qK3yLnTUGbAZA0QaYIwBpVe9pUnqym0";
+$token = "TXRQ1xQsNKslFxE9NvZHE9Zs8w3zuqyxtDmHOdAE0Hz";
 $message = 'ปัญหา : '.$mesg."\n".'ผู้แจ้ง : '.$name."\n".'อีเมล์: '.$email."\n".'Phone: '.$phone."\n".'Line ID: '.$lineid;
 
 if($name<>"" || $email <> "" || $mesg <> "") {
@@ -21,7 +21,7 @@ if($name<>"" || $email <> "" || $mesg <> "") {
 $res = notify_message($message,$stickerPkg,$stickerId,$token);
  echo "<center>ส่งข้อความเรียบร้อยแล้ว</center>";
  ?>
-<meta http-equiv="refresh" content="2;url=https://line009.herokuapp.com">
+<meta http-equiv="refresh" content="2;url=www.facebook.com">
 <?php
 
 } else {
