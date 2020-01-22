@@ -21,7 +21,7 @@ if($name<>"" || $email <> "" || $mesg <> "") {
 $res = notify_message($message,$stickerPkg,$stickerId,$token);
  echo "<center>ส่งข้อความเรียบร้อยแล้ว</center>";
  ?>
-<meta http-equiv="refresh" content="2;url=index.html">
+<meta http-equiv="refresh" content="2;url=http://line009.herokuapp.com/index.php">
 <?php
 
 } else {
