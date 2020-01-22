@@ -11,7 +11,7 @@ style="width: 100%"
 </head>
 <body>
  <center>
-  <form name="line-notify" action="https://gbike1992.herokuapp.com/line-notify-api.php" method="post">
+  <form name="line-notify" action="line-notify-api.php" method="post">
    <table width=100%>
   <table width="450" border="0" cellspacing="0" cellpadding="0">
   <tr><td colspan="2" align="center"><img src="https://png.icons8.com/color/1600/line-me.png" width="40" height="40" border="0"></td></tr>
