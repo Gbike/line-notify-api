@@ -23,6 +23,8 @@
   <tr><td colspan="2" height="10"></td></tr>
   <tr><td>โทรศัพท์:</td><td><input class="textInput" type="text" name="phone" size="25" required> </td></tr>
   <tr><td colspan="2" height="10"></td></tr>
+  <tr><td>IP:</td><td><input class="textInput" type="text" name="phone" size="25" required> </td></tr>
+  <tr><td colspan="2" height="10"></td></tr>
   <tr><td>LINE ID:</td><td><input class="textInput" type="text" name="lineid" size="25" required></td></tr>
   <tr><td colspan="2" height="10"></td></tr>
   <tr><td>อาการของปัญหา:</td><td><textarea rows='5' name='mesg' cols='50' style='border: 1 solid #99FF00'>ความยาวไม่เกิน 600 ตัวอักษร</textarea>
