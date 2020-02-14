@@ -10,7 +10,7 @@ $phone = $_REQUEST['phone'];
 $lineid = $_REQUEST['lineid'];
 $mesg = $_REQUEST['mesg'];
 
-$token = "jRUssYPreUpWFUnwT8Z7rHdmwn9JfHZvLvtos3WKOX1";
+$token = "oSBEsacUv7WAAgdbIhzONGUSOScrgnfeCsWWWLcOIaI";
 $message = 'ปัญหา : '.$mesg."\n".'ผู้แจ้ง : '.$name."\n".'อีเมล์: '.$email."\n".'Phone: '.$phone."\n".'Line ID: '.$lineid;
 
 if($name<>"" || $email <> "" || $mesg <> "") {
